@@ -20,6 +20,8 @@
 
 ## About
 
+A lab on topics related to memory safety vulnerabilities and understanding low level program behavior with use of a debugger.
+
 ---
 
 ## Tools Used
