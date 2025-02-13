@@ -28,7 +28,7 @@ A lab on topics related to memory safety vulnerabilities and understanding low l
 
 As an instructor (especially during this first lab) I strongly recommended students work together collaboratively in groups of 2-3 students. Although this was never strictly required. I encouraged my students to do whatever was most helpful for their particular learning style.<br>
 
-A major focus of this lab was the GNU project debugger (GDB). If you are reading this and are in need of a refresher check out this [GDB manual](https://sourceware.org/gdb/current/onlinedocs/gdb.html/index.html).
+A major focus of this lab was the GNU project debugger (GDB). If you are reading this and are in need of a refresher check out this [GDB manual](https://sourceware.org/gdb/current/onlinedocs/gdb.html/index.html). You can also use the help command while GDB is running.
 
 ---
 
