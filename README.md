@@ -49,6 +49,9 @@ A major focus of this lab was the GNU project debugger (GDB). If you are reading
 - The file forward-overflow.c. Available in this repository under src.
 - The file int-seq.c. Available in this repository under src.
 - The file jit-fib.c. Available in this repository under src.
+- (Optional) The precompiled binary forward-overflow. Available in this repository under src.
+- (Optional) The precompiled binary int-seq. Available in this repository under src.
+- (Optional) The precompiled binary jit-fib. Available in this repository under src.
 - The GNU Project Debugger (GDB).
 
 ### Installation
