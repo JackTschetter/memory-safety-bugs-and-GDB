@@ -59,18 +59,11 @@ A major focus of this lab was the GNU project debugger (GDB). If you are reading
    git clone https://github.com/JackTschetter/memory-safety-bugs-and-GDB
    cd memory-safety-bugs-and-GDB
 
-This repo provides a precompiled victim binary. This victim binary was compiled from the bcimgview.c source on a Linux x86-64 machine, so it should work on most recent Linux systems. I just recently was able to get the program to work, with slight modifications, on my brand new MacBook air which has an ARM based M3/Apple Silicon chip. This was A LOT of extra work, so please stick with the provided binary on Ubuntu Linux 22.04 for best results.
+This repository contains the source files forward-overflow.c, int-seq.c, jit-fib.c. The repository also contains the precompiled forward-overflow, int-seq, jit-fib. Suggested to use the precompiled binaries provided, although I did not require this of my students, but it makes the lab much easier.<br><br>
 
-If their are any die hard Mac lovers such as myself, feel free to contact me and I can walk you through how to get this running on your device and OS.
+**Note** This lab was designed and the binaries are compiled for Linux x86-64. It is strongly reccommended to use a machine running Ubuntu 22.04. If you are using a different Linux x86-64 distribution that might also work, but has not been tested. Other Unix style x86-64 systems might also work, but with significant difficulties. ARM based Macintoshes will **definitely not** work with the provided binaries. Especially the JIT compiler in part 3.<br><br>
 
-For anyone interested the command used to compile the victim binary on Ubuntu Linux 22.04 was<br>
-
-**gcc -no-pie -fno-stack-protector -Og -g -Wall \
-    $(pkg-config --cflags gtk+-3.0) \
-    bcimgview.c -o bcimgview \
-    -lgtk-3 -lgobject-2.0 -lglib-2.0 -lgdk_pixbuf-2.0 -lm**
-
-${\color{red}WARNING}$ This is intentionally buggy/vulnerable code created for the purpose of teaching a class on software security. This command compiles the binary in a way that intentionally disables various defense mechanisms against certain kinds of attacks.
+${\color{red}WARNING}$ This is intentionally vulnerable low level code and source code that deliberately ignores software engineering best practices. These files were created for the sole purpose of teaching a class on Designing and Developing Secure Software. The command used to compile the binaries does so in a way that intentionally disables various defense mechanisms against certain kinds of attacks. Exercise enhanced caution when downloading and using the provided code.
 
 ---
 
