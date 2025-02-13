@@ -87,6 +87,8 @@ To my knowledge this project or some close derivative is still being used for te
 
 In the case that you are not a current or propsective student, and would like to understand what the vulnerabilites were, how to find them, or how to mitigate them, reach out to me (contact below), and I would be more then happy to make some time on my calendar and we could go over these details and more in some detail.
 
+---
+
 ## Contact
 
 Contact me anytime! Day or night. My email is jackrtschetter@gmail.com, and phone number is 612-380-1832. Texting with a short introduction is the most efficient way to get a hold of me. I will respond ASAP.<br>
@@ -94,6 +96,8 @@ Contact me anytime! Day or night. My email is jackrtschetter@gmail.com, and phon
 I would be happy to discuss in (much) greater technical detail the C programming language, and the low level analysis of binary code.<br>
 
 I would also be happy to instruct in the various code auditing, debugging, and fuzzing techniques in which I guided my students to efficiently uncover and attack the vulnerabilities.
+
+---
 
 ## Acknowledgements
 
