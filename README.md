@@ -44,11 +44,11 @@ A major focus of this lab was the GNU project debugger (GDB). If you are reading
 
 ### Prerequisites
 
-- A machine running Ubuntu 22.04. The program should on most recent Linux systems, although the supported configuration is Ubuntu 22.04.
+- A machine running Ubuntu 22.04. The program should on most recent Linux x86-64 systems, although the supported configuration is Ubuntu 22.04.
 - C. The entire project was written using C programming language.
-- GTK 3 family of GUI libraries. This assumes you want a GUI version.
-- (Optional) The precompiled binary from this repository.
-- (Optional) A hexadecimal editor. 
+- The file forward-overflow.c. Available in this repository under src.
+- The file int-seq.c. Available in this repository under src.
+- The file jit-fib.c. Available in this repository under src.
 
 ### Installation
 
