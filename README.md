@@ -10,15 +10,15 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-    - [Disclaimer](#disclaimer)
 - [Lab](#lab)
     - [A Standard Buffer Overflow](#a-standard-buffer-overflow)
     - [Debugging Program Internals](#debugging-program-internals)
     - [Binary Level Debugging](#binary-level-debugging)
-- [License](#license)
+- [Usage](#usage)
+    - [Disclaimer](#disclaimer)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
+- [License](#license)
 
 ---
 
