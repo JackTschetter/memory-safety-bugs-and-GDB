@@ -49,14 +49,15 @@ A major focus of this lab was the GNU project debugger (GDB). If you are reading
 - The file forward-overflow.c. Available in this repository under src.
 - The file int-seq.c. Available in this repository under src.
 - The file jit-fib.c. Available in this repository under src.
+- The GNU Project Debugger (GDB).
 
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/JackTschetter/ImageViewer
-   cd ImageViewer
+   git clone https://github.com/JackTschetter/memory-safety-bugs-and-GDB
+   cd memory-safety-bugs-and-GDB
 
 This repo provides a precompiled victim binary. This victim binary was compiled from the bcimgview.c source on a Linux x86-64 machine, so it should work on most recent Linux systems. I just recently was able to get the program to work, with slight modifications, on my brand new MacBook air which has an ARM based M3/Apple Silicon chip. This was A LOT of extra work, so please stick with the provided binary on Ubuntu Linux 22.04 for best results.
 
