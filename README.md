@@ -90,9 +90,9 @@ To help with this I regularly held labs, and office hours to assist the students
 
 ### Disclaimer
 
-To my knowledge this project or some close derivative is still being used for teaching. After careful consideration, and out of fairness to current, former, and future students I will not be making details of the vulnerabilities, attacks or mitigations public.<br>
+To my knowledge this project or some close derivative is still being used for teaching. After careful consideration, and out of fairness to current, former, and future students I will not be making detailed answers to this lab public.
 
-In the case that you are not a current or propsective student, and would like to understand what the vulnerabilites were, how to find them, or how to mitigate them, reach out to me (contact below), and I would be more then happy to make some time on my calendar and we could go over these details and more in some detail.
+In the case that you are not a current or propsective student in 4271W, and would like to go over the answers to this weeks lab questions, I would be more then happy to make some time on my calendar.
 
 ---
 
