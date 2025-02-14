@@ -70,6 +70,10 @@ ${\color{red}WARNING}$ This is intentionally vulnerable low level code and sourc
 
 ---
 
+## Lab
+
+---
+
 ## Usage
 
 This project was created for the purposes of teaching the class Designing and Developing Secure Software at UMN Twin Cities. For teaching purposes we provided students in the course the same source code, sample images, and pre compiled binary available for download from this repo. 
